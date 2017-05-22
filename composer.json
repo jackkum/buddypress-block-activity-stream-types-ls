@@ -1,0 +1,7 @@
+{
+    "name": "jackkum/buddypress-block-activity-stream-types-ls",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
